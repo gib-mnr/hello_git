@@ -1,2 +1,2 @@
 Hello, we are learning git.
-
+We also learned forking, cloning and branching. 
